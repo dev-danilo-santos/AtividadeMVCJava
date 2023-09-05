@@ -1,0 +1,36 @@
+
+.task-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+
+
+.add-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.task-description {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.task-status {
+    font-weight: bold;
+}
+
+.completed {
+    color: green;
+}
+
+.pending {
+    color: red;
+}
